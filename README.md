@@ -61,7 +61,11 @@ The plugin provides a connection page, a read-only health check, and explicit re
 
 ## Project relationship and attribution
 
-This public repository is a sanitized distribution of the Media Operations MCP implementation and retains the upstream project’s MIT license and attribution. Private deployment files, credentials, machine addresses, logs, and local media inventories are intentionally excluded.
+This is our **Media Operations MCP** distribution, built from the upstream `arr-mcp` project. The original project is maintained by Sandra Schipal here:
+
+<https://github.com/sandraschi/arr-mcp>
+
+We retain the upstream project’s MIT license and attribution while adding the Hermes-facing packaging, documentation, and integration context in this repository. Private deployment files, credentials, machine addresses, logs, and local media inventories are intentionally excluded.
 
 ## License
 
